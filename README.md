@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://zaydinani.onrender.com/zayd.jpg"  />
 <h2 align="left">about me</h2>
 <P>I Am Zayd Inani, A Self-Taught Full Stack Developer And An English Literature Graduate From The University Of Abdelmalek Essaadi. Hailing From Morocco, I Have Always Nurtured A Profound Curiosity For Technology. The Allure Of Crafting Imaginative Solutions As A Developer, Coupled With The Ever-Present Challenges, Has Been A Passion Of Mine.</P>
 
