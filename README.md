@@ -12,6 +12,8 @@
 <img align="right" height="150" src="https://zaydinani.onrender.com/zayd.jpg"  />
 
 ###
+<h2 align="left">i work with</h2>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -42,7 +44,8 @@
 </div>
 
 ###
-
+<h2 align="left">connect with me on my socials</h2>
+  
 <div align="left">
   <a href="https://www.instagram.com/zayd_inani/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -63,8 +66,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/zaydinani/zaydinani/output/snake.svg" alt="Snake animation" />
-
-###
